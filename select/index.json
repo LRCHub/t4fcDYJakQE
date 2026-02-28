@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "金魚蒔絵の水飛沫",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-28T12:57:12.101748Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "金魚蒔絵の水飛沫",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_金魚蒔絵の水飛沫_藍月なくる.txt"
+    }
+  ]
+}
